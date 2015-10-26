@@ -1,0 +1,6 @@
+framework module FSControlsKit {
+  umbrella header "FSControlsKit.h"
+
+  export *
+  module * { export * }
+}

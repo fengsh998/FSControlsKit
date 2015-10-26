@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FSAdvertisementView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FSControlsKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>FSControlsKits copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>FSControlsKits.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>FSWeakTimer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9D2588FB1BDBB3F500F92CBE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D8F4AF11BDBB4AC00FC5EA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D8F4B051BDBB61E00FC5EA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D8F4B4F1BDD181300FC5EA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D8F4B571BDD1ABC00FC5EA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
